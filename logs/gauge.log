@@ -1,0 +1,13 @@
+12:10:47.763 Installing Plugin java 0.3.4
+12:10:47.764 Downloading gauge-java-0.3.4-darwin.x86_64.zip
+12:10:47.764 Download URL https://github.com/getgauge/gauge-java/releases/download/v0.3.4/gauge-java-0.3.4-darwin.x86_64.zip
+12:10:52.393 Downloaded to /var/folders/sw/64d99hf157g8zj1z3zyswm8c0000gp/T/gauge_temp1458123047764233641/gauge-java-0.3.4-darwin.x86_64.zip
+12:10:52.645 Unzipped to => /var/folders/sw/64d99hf157g8zj1z3zyswm8c0000gp/T/gauge_temp1458123047764233641
+12:10:52.687 Successfully installed plugin java
+12:28:02.926 Downloading java.zip
+12:28:02.926 Download URL https://dl.bintray.com/gauge/Templates/java.zip
+12:28:03.030 Downloaded to /var/folders/sw/64d99hf157g8zj1z3zyswm8c0000gp/T/gauge_temp1458124082926352184/java.zip
+12:28:03.033 Unzipped to => /var/folders/sw/64d99hf157g8zj1z3zyswm8c0000gp/T/gauge_temp1458124082926352184
+12:28:03.033 Copying Gauge template java to current directory ...
+12:28:03.038 
+Successfully initialized the project. Run specifications with "gauge specs/"
